@@ -1,7 +1,7 @@
 # Weather App
 
 ## Overview
-This is a ReactJS weather app that allows users to search for and display current weather conditions for a given location and 5.
+This is a ReactJS weather app that allows users to search for and display current weather conditions for a given location and included 5 days weather forecast.
 
 ![weather-app 1](https://github.com/user-attachments/assets/79c089ca-0ce6-48d1-880d-5335cd4d5588)
 
