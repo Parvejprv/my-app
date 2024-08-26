@@ -42,3 +42,6 @@ This is a ReactJS weather app that allows users to search for and display curren
 - Once you have your API key, create a new file called apiKeys.js in the root of the project and add the following code:
 
 
+
+Note: to run this project, please clone it in your local developement.
+
