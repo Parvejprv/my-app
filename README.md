@@ -1,5 +1,10 @@
 # Weather App
 
+Here is the Deployed project link:-
+https://parvejprv.github.io/weather-app
+
+### Note:- You can get the weather data on the weather dashboard with the help of api.
+
 ## Overview
 This is a ReactJS weather app that allows users to search for and display current weather conditions for a given location and included 5 days weather forecast.
 
